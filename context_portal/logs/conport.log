@@ -1,0 +1,6 @@
+2025-07-25 18:15:47,384 - INFO - context_portal_mcp.main - File logging configured to: /home/stark/Desktop/Conport/context_portal/./logs/conport.log
+2025-07-25 18:15:47,384 - INFO - context_portal_mcp.main - Parsed CLI args: Namespace(host='127.0.0.1', port=8000, workspace_id='/home/stark/Desktop/Conport', mode='stdio', log_file='./logs/conport.log', log_level='INFO')
+2025-07-25 18:15:47,384 - INFO - context_portal_mcp.main - Starting ConPort in STDIO mode using FastMCP for initial CLI arg workspace_id: /home/stark/Desktop/Conport
+2025-07-25 18:15:47,384 - INFO - context_portal_mcp.main - STDIO mode started. Workspace will be initialized on the first tool call.
+2025-07-25 18:15:47,384 - INFO - context_portal_mcp.main - Adding 500ms startup delay for stdio mode.
+2025-07-25 18:15:47,925 - INFO - context_portal_mcp.main - ConPort FastMCP server lifespan starting.
